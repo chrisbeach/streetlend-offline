@@ -12,7 +12,8 @@ img.screenshot {
     width: 100%
 }
 h1, h2, h3 {
-    font-weight: normal
+    font-weight: normal;
+    letter-spacing: -0.03em;
 }
 h1 {
     margin: 0 -20px 40px -20px;
